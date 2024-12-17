@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on data science and web3 projects
 - 📫 How to reach me: nourelhoudaderbel8@gmail.com
-- 😄 Pronouns: She/Her
 
 #  👩‍💻 Learning:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
